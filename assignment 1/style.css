@@ -1,0 +1,36 @@
+.box {
+    width: 90%;
+    margin: auto;
+    border: 4px solid black;
+}
+.top {
+    height: 80px;
+    background-color:maroon;
+    border-bottom: 4px solid black;
+}
+.middle {
+    display: flex;
+    border-bottom: 4px solid black;
+}
+.left {
+    width: 30%;
+    height: 200px;
+    background-color: rgb(67, 60, 60);
+    border-right: 4px solid black;
+}
+.center {
+    width: 40%;
+    height: 200px;
+    background-color:azure;
+    border-right: 4px solid black;
+}
+.right {
+    width: 30%;
+    height: 200px;
+    background-color: burlywood;
+}
+
+.bottom {
+    height: 60px;
+    background-color:lavenderblush;
+}
